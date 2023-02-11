@@ -1,0 +1,5 @@
+1. Syntax Error
+2. Semantics Error
+3. Type Error
+4. Run-Time Error
+5. Logical Error
