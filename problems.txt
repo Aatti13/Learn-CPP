@@ -1,11 +1,5 @@
 c++ Program Practice
-Basic c++ Program - I (Code is inside PPP-I.ipynb file)
-
-write a c++ program to add two numbers
-Write a c++ program to calculate the square root of any number.
-Write a c++ program to find the cube of any given number.
-Write a c++ program to convert kilometer to meter and vice versa.
-6.Wrtie a c++ progrma to check the given number is positive or negative or zero.
+Basic c++ Program - I 
 
 Write a c++ program to convert the tempareture from centigrade to fahrenheit and vice versa.
 Write a c++ program to swap two numbers.
@@ -22,6 +16,7 @@ Write a c++ program to solve the quadratic equation.
 Write a c++ program to convert the character of a string into the equivalent ASCII character string.
 Write a c++ program to find the sum of squares of first N natural number.
 Write a c++ program to find the cube sum of first N natural number.
+
 Basic c++ Program – II
 
 Write a c++ program to check the given number is Fibonacci number or not.
