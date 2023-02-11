@@ -1,2 +1,2 @@
-# Learn-C-
+# Learn-C++
 My journey learning c++
